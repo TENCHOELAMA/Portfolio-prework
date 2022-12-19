@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+    box-sizing: border-box;
+    ;
+}
+
+body, html{
+    height:100%;
+    margin:0px;
+}
+
+
+
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    position: sticky;
+    top: 0;
+    
+    
+    
+}
+
+.hero a:hover{
+    color:yellowgreen;
+}
+
+.hero ul{
+    display: flex;
+    list-style: circle;
+    margin: 20px 0px;
+}
+.hero ul li{
+    font-family: century;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.hero ul li a{
+    text-decoration:none;
+    color: blanchedalmond;
+    padding: 80px;
+}
+
+.portfolio {
+    margin: 0;
+    padding:5px;
+    background-color: whitesmoke;
+    color: black;
+    background-image:url("../images/p3.jpg");
+    background-position: top;
+    
+    
+    
+    
+    
+}
+
+.aboutme {
+    background: ;
+    background-color: ;
+    margin: 100px;
+    font-size:150%
+    
+    
+    
+    
+}
+
+.careerGoals{
+    background: ;
+    margin: 100px;
+    font-size:150%;
+}
+
+
+
+
+figure{
+    width:30%;
+    margin-top: 5%;
+    
+}
+
+#meme{
+    width:70%;
+    color:black;
+    float: center;
+    
+    
+}
+.connect{
+    text-align: center;
+    
+}
+
+.hero a:hover{
+    color:yellowgreen;
+}
+
+.portfolio-image{
+    background-image:url("../images/p3.jpg");
+}
+
+#pic1{
+    color:white;
+}
+#pic2{
+    color:white;
+}
